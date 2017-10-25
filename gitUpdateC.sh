@@ -1,3 +1,3 @@
 #!/bin/bash
-gitup
+git pull
 "C:\DesktopService\Desktop ServiceC.exe" $1 &
