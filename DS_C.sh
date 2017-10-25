@@ -1,3 +1,3 @@
 #!/bin/bash
 git pull
-"C:\DesktopService\DesktopService.exe" $1 &
+"C:\DesktopService\app.exe" $1 &
